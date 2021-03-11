@@ -14,3 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+
+## Conference/Workshops
+
+1. Pham, M., Li, Zeqian, and Whitehill, J. "Toward Better Speaker Embeddings: Automated Collection of Speech Samples from Unknown Distinct Speakers". IEEE International Conference on Speech and Signal Processing (ICASSP), 2020.
+
+2. Pham, M., Li, Z., and Whitehill, J. "How Does Label Noise Affect the Quality of Speaker Embeddings?". InterSpeech 2020.
