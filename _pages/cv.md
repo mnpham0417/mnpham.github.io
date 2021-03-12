@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src={{site.baseurl}}"/publications/MP_CV.pdf" width="100%" height="100%"/>
+<iframe src={{site.baseurl}}"/publications/MP_CV.pdf" width="400px" height="300px"/>
