@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ------
-Hi, I am an incoming Ph.D student at New York University, advised by <a href="https://chinmayhegde.github.io/">Prof. Chinmay Hegde</a>. I graduated from Worcester Polytechnic Institute with a B.S. in Computer Science and a B.S. in Mathematical Sciences, where I was fortunate to be advised by <a href="https://users.wpi.edu/~jrwhitehill/">Prof. Jacob Whitehill</a>.
+Hi, I am an incoming Ph.D student at New York University, under the supervision of <a href="https://chinmayhegde.github.io/">Prof. Chinmay Hegde</a>. I graduated from Worcester Polytechnic Institute with a B.S. in Computer Science and a B.S. in Mathematical Sciences, where I was fortunate to be advised by <a href="https://users.wpi.edu/~jrwhitehill/">Prof. Jacob Whitehill</a>.
 
 Latest News
 ------
